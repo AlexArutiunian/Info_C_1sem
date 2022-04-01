@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h>            // It is the work with numbers like array. There are aruthmetic operations
 #include <string.h>
 
 int * get(int n)      // функция считывания символов из командной строки и записи их в массив
